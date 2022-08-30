@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**LivingTheCoderDream/LivingTheCoderDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Deep Learning using Tensorflow 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning each Machine Learning model in depth and also Tensorflow in depth
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on Kaggle Contests and Machine Learning and Deep Learning projects  
+
+- 🤔 I’m looking for help with Django
+
+- 💬 Ask me about Machine Learning and Deep Learning 
+
+- 📫 How to reach me: 
+  - Mail: atharvjaju7777@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/atharv-jaju/
+  - Codechef: https://www.codechef.com/users/amazing_coder
+  - Codeforces: https://codeforces.com/profile/amazing_coder_7
+  - LeetCode: https://leetcode.com/AtharvJaju/
+  
+- ⚡ Fun fact: I like playing video games. Currently playing Valorant
+
